@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+networkx
+pillow
+# Solo para datos reales (fuente OSM):
+osmnx
