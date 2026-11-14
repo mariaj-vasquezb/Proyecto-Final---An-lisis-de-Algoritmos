@@ -1,0 +1,6 @@
+red,V,E,V+E,tiempo_ms,repeticiones,implementacion,V_componente,E_componente
+Radio de 2 km,79,187,266,1.339,5,networkx(réplica),64,162
+Radio de 5 km,493,1421,1914,8.307,5,networkx(réplica),488,1416
+Radio de 10 km,1962,5738,7700,31.764,5,networkx(réplica),1950,5725
+Radio de 20 km,6915,20612,27527,116.123,5,networkx(réplica),6865,20558
+Departamento completo,10475,31392,41867,178.245,5,networkx(réplica),10410,31305

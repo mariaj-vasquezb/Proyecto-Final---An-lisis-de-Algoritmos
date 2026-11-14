@@ -1,0 +1,24 @@
+{
+  "estadisticas": {
+    "V_descargada": 10475,
+    "E_descargada": 31392,
+    "V_componente": 10410,
+    "E_componente": 31305,
+    "implementacion_scc": "networkx(réplica)",
+    "tramos_con_maxspeed_pct": 20.39,
+    "tramos_imputados_media_tipo_pct": 57.86,
+    "tramos_tabla_defecto_pct": 21.75,
+    "velocidad_media_kmh": 36.04
+  },
+  "memoria": {
+    "V": 10410,
+    "E": 31305,
+    "densidad_pct": 0.028887652362641774,
+    "matriz_MB": 413.39149475097656,
+    "listas_MB": 0.39797210693359375,
+    "supuestos": "matriz: 4 B/celda (un peso float32); listas: 12 B/entrada (destino int32 + distancia float32 + tiempo float32) + 4 B/offset por nodo"
+  },
+  "lugares_mas_500m": [],
+  "dist_max_m": 286.0194985185231,
+  "dist_media_m": 195.82999370018015
+}

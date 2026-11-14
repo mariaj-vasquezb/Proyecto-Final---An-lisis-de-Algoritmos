@@ -1,0 +1,41 @@
+id,nombre,categoria,nodo,osm_id_nodo,dist_nodo_m,mayor_500m
+C01,Armenia (Plaza de Bolívar),Cabecera,5814,1067683,222.3,0
+C02,Buenavista,Cabecera,3565,1048804,124.6,0
+C03,Calarcá,Cabecera,7003,1078827,252.8,0
+C04,Circasia,Cabecera,7262,1081459,226.5,0
+C05,Córdoba,Cabecera,5640,1066199,209.0,0
+C06,Filandia,Cabecera,6661,1075362,172.3,0
+C07,Génova,Cabecera,1718,1033670,184.3,0
+C08,La Tebaida,Cabecera,1779,1034097,286.0,0
+C09,Montenegro,Cabecera,3316,1046683,194.7,0
+C10,Pijao,Cabecera,4907,1059906,140.2,0
+C11,Quimbaya,Cabecera,2724,1041825,246.6,0
+C12,Salento,Cabecera,8780,1101318,263.7,0
+A01,Parque Nacional del Café,Atractivo,2403,1039200,185.6,0
+A02,PANACA,Atractivo,1661,1033096,134.1,0
+A03,Valle de Cocora,Atractivo,10030,1128576,251.7,0
+A04,Jardín Botánico del Quindío,Atractivo,4817,1059073,166.6,0
+A05,Museo del Oro Quimbaya,Atractivo,6233,1071442,226.2,0
+A06,Mirador de Filandia (Colina Iluminada),Atractivo,6530,1074123,153.8,0
+A07,Parque Los Arrieros,Atractivo,7488,1083930,237.6,0
+A08,Mirador Alto de la Cruz,Atractivo,8855,1102557,224.6,0
+A09,Calle Real de Salento,Atractivo,8780,1101318,174.3,0
+A10,Mariposario del Quindío,Atractivo,7681,1086268,218.2,0
+A11,Parque de la Vida,Atractivo,6366,1072667,225.8,0
+A12,Reserva Bremen - La Popa,Atractivo,7397,1082838,257.4,0
+A13,Mirador de Buenavista,Atractivo,3565,1048804,123.9,0
+A14,Casco histórico de Pijao (Cittaslow),Atractivo,4907,1059906,174.4,0
+A15,Mirador de Génova,Atractivo,2023,1036155,176.3,0
+F01,Finca cafetera (ejemplo) - Salento,Finca/Hotel,8367,1095081,285.9,0
+F02,Finca cafetera (ejemplo) - Filandia,Finca/Hotel,5561,1065408,49.4,0
+F03,Finca cafetera (ejemplo) - Montenegro,Finca/Hotel,4065,1052850,191.1,0
+F04,Finca cafetera (ejemplo) - Quimbaya,Finca/Hotel,1815,1034349,192.6,0
+F05,Finca cafetera (ejemplo) - Calarcá,Finca/Hotel,7673,1086212,72.8,0
+F06,Finca cafetera (ejemplo) - Circasia,Finca/Hotel,8186,1092575,190.9,0
+F07,Finca cafetera (ejemplo) - Armenia,Finca/Hotel,4804,1058975,211.5,0
+F08,Finca cafetera (ejemplo) - Pijao,Finca/Hotel,4156,1053676,219.7,0
+T01,Centro de acopio (ejemplo) - Armenia,Acopio,5530,1065184,181.6,0
+T02,Centro de acopio (ejemplo) - Calarcá,Acopio,6877,1077567,182.1,0
+T03,Trilladora (ejemplo) - Montenegro,Acopio,3316,1046683,175.1,0
+T04,Centro de acopio (ejemplo) - Génova,Acopio,2024,1036162,191.5,0
+T05,Centro de acopio (ejemplo) - La Tebaida,Acopio,2230,1037793,235.5,0

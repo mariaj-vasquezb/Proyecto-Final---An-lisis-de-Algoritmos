@@ -1,0 +1,141 @@
+{
+  "inicio": "C01",
+  "jornada_h": 11,
+  "pasos": [
+    {
+      "atractivos": [
+        "A05",
+        "A04",
+        "A06",
+        "A07",
+        "A09",
+        "A10",
+        "A03",
+        "A01"
+      ],
+      "viaje_s": 9121.079,
+      "visitas_s": 53100,
+      "total_s": 62221.079,
+      "cabe": false,
+      "se_quita": "A01",
+      "ahorro_s": 15972.916999999998
+    },
+    {
+      "atractivos": [
+        "A05",
+        "A04",
+        "A06",
+        "A07",
+        "A09",
+        "A10",
+        "A03"
+      ],
+      "viaje_s": 7548.162,
+      "visitas_s": 38700,
+      "total_s": 46248.162,
+      "cabe": false,
+      "se_quita": "A03",
+      "ahorro_s": 12608.978000000001
+    },
+    {
+      "atractivos": [
+        "A05",
+        "A04",
+        "A06",
+        "A07",
+        "A09",
+        "A10"
+      ],
+      "viaje_s": 5739.183999999999,
+      "visitas_s": 27900,
+      "total_s": 33639.184,
+      "cabe": true
+    }
+  ],
+  "atractivos_finales": [
+    "A05",
+    "A04",
+    "A06",
+    "A07",
+    "A09",
+    "A10"
+  ],
+  "orden": [
+    "C01",
+    "A05",
+    "A04",
+    "A06",
+    "A09",
+    "A07",
+    "A10",
+    "C01"
+  ],
+  "tramos": [
+    {
+      "de": "C01",
+      "a": "A05",
+      "desplazamiento_min": 6.3274,
+      "visita_min": 90.0,
+      "acumulado_h": 1.6054566666666668
+    },
+    {
+      "de": "A05",
+      "a": "A04",
+      "desplazamiento_min": 7.2412,
+      "visita_min": 120.0,
+      "acumulado_h": 3.7261433333333334
+    },
+    {
+      "de": "A04",
+      "a": "A06",
+      "desplazamiento_min": 19.806716666666667,
+      "visita_min": 45.0,
+      "acumulado_h": 4.806255277777778
+    },
+    {
+      "de": "A06",
+      "a": "A09",
+      "desplazamiento_min": 17.704483333333332,
+      "visita_min": 75.0,
+      "acumulado_h": 6.35133
+    },
+    {
+      "de": "A09",
+      "a": "A07",
+      "desplazamiento_min": 15.8818,
+      "visita_min": 60.0,
+      "acumulado_h": 7.6160266666666665
+    },
+    {
+      "de": "A07",
+      "a": "A10",
+      "desplazamiento_min": 17.193583333333333,
+      "visita_min": 75.0,
+      "acumulado_h": 9.152586388888889
+    },
+    {
+      "de": "A10",
+      "a": "C01",
+      "desplazamiento_min": 11.497883333333334,
+      "visita_min": 0.0,
+      "acumulado_h": 9.344217777777779
+    }
+  ],
+  "viaje_total_s": 5739.183999999999,
+  "visitas_total_s": 27900,
+  "duracion_total_s": 33639.184,
+  "voraz": {
+    "orden": [
+      "C01",
+      "A05",
+      "A04",
+      "A07",
+      "A09",
+      "A06",
+      "A10",
+      "C01"
+    ],
+    "viaje_s": 6229.723,
+    "total_s": 34129.723
+  }
+}
